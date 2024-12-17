@@ -1,0 +1,23 @@
+h1 {
+    background-color: #2196F3; /* Color de la franja */
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin: 0; /* Elimina márgenes del título */ 
+}
+
+<style>
+        table{
+            width: 50%;
+            border-collapse: collapse;
+            margin: 20px auto;
+        }
+        th, td{
+            border: 1px solid black;
+            text-align: center;
+            padding: 8px;
+        }
+        th{
+            background-color: #f2f2f2;
+        }
+</style>
